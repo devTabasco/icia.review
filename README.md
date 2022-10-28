@@ -13,6 +13,9 @@ This repository maintains code and solutions for review for icia students.
 
 ## 1. 22.10.29 토요일 1회차
 
+> 이번 스터디는 로그인 기능과 로그아웃 기능을 완성시켜보는 것을 목표로 합니다.
+기본적인 화면구성은 모두 완료되어있으며, 기능구현만 완성하시면 됩니다.
+
 문제파일 : todoList_221028</br>
 솔루션파일 : solution_221028
 
