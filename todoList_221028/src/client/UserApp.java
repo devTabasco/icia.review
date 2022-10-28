@@ -75,7 +75,7 @@ public class UserApp {
 
 	}
 
-	// makeClinetData
+	// makeClietData
 	private String makeClientData(String serviceCode, String[] item, String[] userData) {
 		//makeClientData에서는 serviceCode(로그인은 1, 로그아웃은 -1), 1차원 item배열, 1차원 userData배열을
 		//parameter로 받아와
