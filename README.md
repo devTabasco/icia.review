@@ -11,7 +11,7 @@ This repository maintains code and solutions for review for icia students.
 4. 해당 일자의 문제 및 solution 확인
 ~~~
 
-## 1. 22.10.28 1회차
+## 1. 22.10.29 토요일 1회차
 
 문제파일 : todoList_221028</br>
 솔루션파일 : solution_221028
