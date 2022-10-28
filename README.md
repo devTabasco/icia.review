@@ -16,8 +16,10 @@ This repository maintains code and solutions for review for icia students.
 문제파일 : todoList_221028</br>
 솔루션파일 : solution_221028
 
-코드 작성 부분이 있는 Class
+- 코드 작성 부분이 있는 Class
 1. UserApp
 2. Auth
 3. ServerController
 4. (필요시)DataAccessObject의 경로파일 부분
+
+- 로그인 시 정보는 MEMBERS.txt 파일을 확인해주세요.
