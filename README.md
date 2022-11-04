@@ -32,9 +32,9 @@ This repository maintains code and solutions for review for icia students.
 ## 1. 22.11.05 토요일 2회차
 
 > 이번 스터디는 TODO.txt 파일에 있는 일정을 읽어와 캘린더 View를 출력하는 것을 목표로 합니다.</br>
-총 6문제로 구성되어 있으며,
-0번 문제는 DAO Class에 파일 경로를 지정하는 것입니다.
-0번부터 순서대로 5번까지 총 6문제를 순서대로 푸시길 추천드립니다!
+총 6문제로 구성되어 있으며,</br>
+0번 문제는 DAO Class에 파일 경로를 지정하는 것입니다.</br>
+0번부터 순서대로 5번까지 총 6문제를 순서대로 푸시길 추천드립니다!</br>
 
 문제파일 : todoList_221105</br>
 솔루션파일 : solution_221105
