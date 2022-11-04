@@ -27,6 +27,8 @@ This repository maintains code and solutions for review for icia students.
 
 - 로그인 시 정보는 MEMBERS.txt 파일을 확인해주세요.
 
+---
+
 ## 1. 22.11.05 토요일 2회차
 
 > 이번 스터디는 TODO.txt 파일에 있는 일정을 읽어와 캘린더 View를 출력하는 것을 목표로 합니다.</br>
