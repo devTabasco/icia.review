@@ -46,3 +46,22 @@ This repository maintains code and solutions for review for icia students.
 4. DataAccessObject(1문제)
 
 - 로그인 시 정보는 MEMBERS.txt 파일을 확인해주세요.
+
+---
+
+## 1. 22.11.12 토요일 3회차
+
+> 이번 스터디는 사용자로부터 정보를 입력 받아 정보에 해당하는 일정리스트를 출력하는 것을 목표로 합니다.</br>
+총 6문제로 구성되어 있으며,</br>
+0번 문제는 DAO Class에 파일 경로를 지정하는 것입니다.</br>
+0번부터 순서대로 5번까지 총 6문제를 순서대로 푸시길 추천드립니다!</br>
+
+문제파일 : todoList_221112</br>
+솔루션파일 : solution_221112
+
+- 코드 작성 부분이 있는 Class
+1. UserApp(3문제 : 1,2,5번)
+2. TaskManager(1문제 : 3번)
+3. DataAccessObject(2문제 : 0, 4번)
+
+- 로그인 시 정보는 MEMBERS.txt 파일을 확인해주세요.
