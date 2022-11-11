@@ -8,7 +8,7 @@ import java.util.Scanner;
 import server.ServerController;
 
 public class UserApp {
-
+ 
 	public UserApp() {
 		frontController();
 	}
