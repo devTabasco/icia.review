@@ -104,7 +104,7 @@ This repository maintains code and solutions for review for icia students.
 
 - 로그인 시 정보는 MEMBERS.txt 파일을 확인해주세요.
 
-##ToDoList 프로젝트 복습을 끝내며...
+## ToDoList 프로젝트 복습을 끝내며...
 ~~~
 5회차를 끝으로 수업시간에 진행한 ToDoList의 주요기능을 모두 구현해보았습니다.
 기능은 잘 동작하지만, 사실 저희가 복습한 코드는 수정할 부분이 굉장히 많습니다.
