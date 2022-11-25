@@ -84,3 +84,22 @@ This repository maintains code and solutions for review for icia students.
 3. DataAccessObject(2문제 : 0, 3번)
 
 - 로그인 시 정보는 MEMBERS.txt 파일을 확인해주세요.
+
+---
+
+## 1. 22.11.26 토요일 5회차
+
+> 이번 스터디는 사용자로부터 수정할 일정 정보를 입력 받아 일정리스트를 수정하는 것을 목표로 합니다.</br>
+총 6문제로 구성되어 있으며,</br>
+0번 문제는 DAO Class에 파일 경로를 지정하는 것입니다.</br>
+0번부터 순서대로 5번까지 총 6문제를 순서대로 푸시길 추천드립니다!</br>
+
+문제파일 : todoList_221126</br>
+솔루션파일 : solution_221126
+
+- 코드 작성 부분이 있는 Class
+1. TaskManager(1문제 : 1번)
+2. ModifyList(3문제 : 2, 3, 4번)
+3. DataAccessObject(2문제 : 0, 5번)
+
+- 로그인 시 정보는 MEMBERS.txt 파일을 확인해주세요.
