@@ -29,7 +29,7 @@ This repository maintains code and solutions for review for icia students.
 
 ---
 
-## 1. 22.11.05 토요일 2회차
+## 2. 22.11.05 토요일 2회차
 
 > 이번 스터디는 TODO.txt 파일에 있는 일정을 읽어와 캘린더 View를 출력하는 것을 목표로 합니다.</br>
 총 6문제로 구성되어 있으며,</br>
@@ -49,7 +49,7 @@ This repository maintains code and solutions for review for icia students.
 
 ---
 
-## 1. 22.11.12 토요일 3회차
+## 3. 22.11.12 토요일 3회차
 
 > 이번 스터디는 사용자로부터 정보를 입력 받아 정보에 해당하는 일정리스트를 출력하는 것을 목표로 합니다.</br>
 총 6문제로 구성되어 있으며,</br>
@@ -68,7 +68,7 @@ This repository maintains code and solutions for review for icia students.
 
 ---
 
-## 1. 22.11.19 토요일 4회차
+## 4. 22.11.19 토요일 4회차
 
 > 이번 스터디는 사용자로부터 정보를 입력 받아 일정리스트를 등록하는 것을 목표로 합니다.</br>
 총 4문제로 구성되어 있으며,</br>
@@ -87,7 +87,7 @@ This repository maintains code and solutions for review for icia students.
 
 ---
 
-## 1. 22.11.26 토요일 5회차
+## 5. 22.11.26 토요일 5회차
 
 > 이번 스터디는 사용자로부터 수정할 일정 정보를 입력 받아 일정리스트를 수정하는 것을 목표로 합니다.</br>
 총 6문제로 구성되어 있으며,</br>
