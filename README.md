@@ -114,3 +114,10 @@ This repository maintains code and solutions for review for icia students.
 다음주는 수요에 따라 한 주 휴식을 고려하고 있으며,
 6회차부터는 SQL 또는 JAVA 알고리즘 문제를 풀어볼까 합니다.
 ~~~
+
+## 6. 22.12.10 토요일 6회차
+
+> 이번 스터디는 간단한 HTML & CSS 코드를 복습해보는 시간을 가져보려합니다.</br>
+총 3문제로 구성되어 있으며,</br>
+순서대로 푸시기를 추천 드립니다.</br>
+문제파일은 github에 따로 공유하지 않겠습니다.</br>
